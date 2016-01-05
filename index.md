@@ -7,11 +7,11 @@ layout: null
 <meta charset='utf-8'>
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta http-equiv="Content-Language" content="ja">
-<meta http-equiv="refresh" content="0; URL=/documentation/help/markdown/">
+<meta http-equiv="refresh" content="0; URL=/documentation/help/markdown/index.html">
 </head>
 <body>
 FeathersUIの日本語ドキュメント予定地。<br>
-<a href="documentation/help/markdown/">こちらです。</a>
+<a href="documentation/help/markdown/index.html">こちらです。</a>
 </body>
 </html>
 
