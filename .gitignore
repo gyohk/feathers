@@ -21,3 +21,8 @@ html-template/
 .idea/
 archive/
 *.lnk
+
+# jekyll
+_site
+.sass-cache
+#
