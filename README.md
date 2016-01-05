@@ -1,7 +1,12 @@
 # Feathers UI 2.3.0-prerelease [![Build Status](https://travis-ci.org/BowlerHatLLC/feathers.svg?branch=master)](https://travis-ci.org/BowlerHatLLC/feathers)
 
----
+Feathers ヘルプドキュメントの日本語翻訳用リポジトリです。
+訳は以下から確認できます。
 
+[翻訳ページ](http://gyohk.github.io/feathers)
+
+
+---
 **Warning:** This is a pre-release version of Feathers UI. It may contain bugs or unfinished features. It is not recommended for production apps because it is considered potentially *unstable*. Use at your own risk. To download a stable build, visit the [Feathers website](http://feathersui.com/).
 
 ---
